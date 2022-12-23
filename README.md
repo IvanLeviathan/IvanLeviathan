@@ -26,12 +26,10 @@ My name is Ivan. I have been living IT life since 2017. During my studies I star
 
 ## :floppy_disk: Projects
 - :video_game: [React.js incremential clicker game](https://github.com/IvanLeviathan/react-clicker-game)
-
 - :musical_note: [.mp3 files metadata setter](https://github.com/IvanLeviathan/mp3setmetadata)
-
 - :ghost: [Discord Bot for 200+ servers](https://github.com/IvanLeviathan/dsbot)
-
 - :tent: [Arma 3 interactive map](https://github.com/IvanLeviathan/armamap)
+- :elephant: [1C-Bitrix module](https://github.com/IvanLeviathan/newmark.speedup)
 
 
 ## :star: GitHub Statistic
