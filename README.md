@@ -37,6 +37,8 @@ My name is Ivan. I have been living IT life since 2017. During my studies I star
 
 ![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanLeviathan&count_private=true&hide=tsql&langs_count=5&theme=vision-friendly-dark&layout=compact)
 
+![Codewars](https://www.codewars.com/users/IvanLeviathan/badges/large)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=IvanLeviathan)
 
 
