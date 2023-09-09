@@ -39,6 +39,6 @@ My name is Ivan. I have been living IT life since 2017. During my studies I star
 
 ![Codewars](https://www.codewars.com/users/IvanLeviathan/badges/large)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IvanLeviathan)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIvanLeviathan&countColor=%23263759)
 
 
