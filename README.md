@@ -3,9 +3,6 @@
 My name is Ivan. I have been living IT life since 2017. During my studies I started with C#, then PHP entered my life, after that I completely switched to the modern WEB development. Continue to develop solutions with PHP + Html + Css + Js as a full-stack developer.
 ## Right now working as a :blue_heart: **TypeScript** Back-end developer.
 
-### :email: How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/ivanleviathan/)
-
 ### :orange_book: I’m currently learning:
 - C#
 
